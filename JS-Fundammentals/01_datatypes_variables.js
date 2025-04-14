@@ -4,7 +4,7 @@
 
 // 1.String , "Arpita", me, lastName);"19","true"
 // 2. Number ,19
-//3.BigIn
+// 3.BigIn
 // 4. Boolean , true / false
 // 5. Undefined
 // 6. Null

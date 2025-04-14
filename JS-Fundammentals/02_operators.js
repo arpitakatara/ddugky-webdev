@@ -77,4 +77,14 @@ console.log(d == e); // false
 console.log(d > e); // true
 console.log(d >= e); // true
 console.log(d <= e); // false
-console.log(d != e); // true
+
+var mark = 5;
+var Grade;
+var conditionO = marks>=90;
+var conditionC = marks>=80&& marks<90;
+var conditionA = marks>=70&& marks<80;
+var conditionB = marks>=50&& marks<70;
+var conditionF = marks<=30
+
+
+
